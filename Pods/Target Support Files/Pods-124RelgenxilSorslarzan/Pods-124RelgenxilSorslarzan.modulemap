@@ -1,0 +1,6 @@
+framework module Pods_124RelgenxilSorslarzan {
+  umbrella header "Pods-124RelgenxilSorslarzan-umbrella.h"
+
+  export *
+  module * { export * }
+}
